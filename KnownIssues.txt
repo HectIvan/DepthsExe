@@ -1,0 +1,21 @@
+Known issues:
+
+  Top Priority:
+    .-Game does not have an ending.
+    .-User can get stuck into the collissions of other objects, making them feel "sticky".
+    .-Locker mesh has no collider and cant be interacted with.
+    .-Entities cannot kill the player when the player is out of hiding.
+    .-Audio slidebar is difficult to interact with.
+
+  Medium Priority:
+    .-death room does not have anything in it.
+    .-Player can interact with items even when an obstruction is in the way.
+
+  Low Priority:
+    .-Small mesh error in the common S-Room.
+    .-small mesh error in the large room wall.
+    .-EyeSmoker Sprite inconsistent look.
+    .-No steps audio.
+    .-Error where the pause UI buttons remain on the right when hovering on them, exiting the
+      pause menu and pausing again.
+    .-small error with the DNA item texture.
